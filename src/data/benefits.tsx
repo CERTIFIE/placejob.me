@@ -13,7 +13,7 @@ export const benefits: IBenefit[] = [
             },
             {
                 title: "Carica il tuo CV",
-                description: "Sappiamo quanto è stressante dover creare un nuovo profilo, carica il tuo CV e sarà l'IA a fare il reseto.",
+                description: "Sappiamo quanto è stressante dover creare un nuovo profilo, carica il tuo CV e sarà l'IA a fare il resto.",
                 icon: <FiUploadCloud size={26} />
             },
             {
