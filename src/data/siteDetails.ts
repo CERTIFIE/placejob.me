@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'Finwise',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteName: 'PlaceJob',
+    siteUrl: 'https://placejob.me/',
     metadata: {
-        title: 'Finwise - Next.js and Tailwind CSS Landing Page Template',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'PlaceJob - Il social che cambia il lavoro',
+        description: 'PlaceJob è la piattaforma che rivoluziona il modo di cercare e offrire lavoro, utilizzando l\'intelligenza artificiale per connettere talenti e aziende.',
     },
-    language: 'en-us',
-    locale: 'en-US',
-    siteLogo: `${process.env.BASE_PATH || ''}/images/logo.png`, // or use a string for the logo e.g. "TechStartup"
+    language: 'it-it',
+    locale: 'it-IT',
+    siteLogo: `${process.env.BASE_PATH || ''}/placejob.jpeg`,
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }
