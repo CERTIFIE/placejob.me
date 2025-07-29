@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
+    heading: 'Un match dal successo',
+    subheading: 'Il social che cambia il modo di cercare lavoro. Iscriviti, raccontaci di te e trova il lavoro dei tuoi sogni.',
     centerImageSrc: '/images/hero-mockup.webp',
 }
