@@ -1,4 +1,4 @@
-import { FiBriefcase, FiDollarSign, FiLock, FiPieChart, FiShield, FiTarget, FiUser, FiLogIn, FiUpload, FiUploadCloud, FiClock, FiBookmark, FiUserCheck, FiUserPlus } from "react-icons/fi";
+import { FiDollarSign, FiTarget, FiLogIn, FiUploadCloud, FiClock, FiBookmark, FiUserCheck, FiUserPlus } from "react-icons/fi";
 import { IBenefit } from "@/types"
 
 export const benefits: IBenefit[] = [
