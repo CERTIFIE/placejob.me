@@ -16,9 +16,17 @@ export interface IBenefitBullet {
     icon: JSX.Element;
 }
 
+export interface IPrice {
+    period: string;
+    price: number | string;
+}
+
+type PricePeriod = 'month' | 'year' | 'always' | 'custom';
+
 export interface IPricing {
     name: string;
-    price: number | string;
+    type: 'user' | 'corporate';
+    price: { [key in PricePeriod]?: IPrice };
     features: string[];
 }
 
